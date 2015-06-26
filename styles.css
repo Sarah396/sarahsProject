@@ -1,0 +1,13 @@
+body{
+	background-color:purple;
+	background-image: url();
+}
+p{
+	color:white;
+}
+p#Lollipop{
+	color:yellow;
+}
+p.Sarah{
+	color:teal;
+}
